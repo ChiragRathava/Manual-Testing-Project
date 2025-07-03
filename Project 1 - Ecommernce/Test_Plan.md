@@ -75,7 +75,7 @@ Testing Types:
 | Activity | Start Date | End Date |
 |----------|------------|----------|
 | Requirement Review | 20-01-25   | 20-01-25 |
-| Test Case Writing | 21-01-25   | 25-01-25 |
+| Test Case Writing | 21-01-25   | 24-01-25 |
 | Test Execution | 26-01-25   | 28-01-25 |
 | Bug Reporting | 13-02-25   | 18-02-25 |
 | Retesting | 20-02-25   | 24-02-25 |
