@@ -43,8 +43,7 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 - Test Plan ✅  
 - Test Cases ✅  
-- Bug Report ✅  
-- RTM ❌  
+- Bug Report ✅
 - Test Reports ✅  
 - Test Metrics ✅  
 
