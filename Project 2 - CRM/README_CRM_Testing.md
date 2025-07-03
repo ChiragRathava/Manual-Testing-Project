@@ -100,4 +100,4 @@ This repository is created for **educational and portfolio purposes**. No real u
 > 👨‍💻 **Created by:** [Chirag Rathava](https://github.com/ChiragRathava29)  
 > 🧪 **Role:** Manual Tester  
 > 🗂️ **Project Domain:** CRM – Quotation & Sales System  
-> 📅 **Bug Reporting Duration:** [Insert Date Range if known]
+
