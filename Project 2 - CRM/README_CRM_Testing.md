@@ -23,18 +23,6 @@ Responsibilities:
 
 ---
 
-## 📁 Repository Structure
-
-```
-/Project 2 - CRM/
-├── Bug_Report.md           # Detailed bug reports in markdown
-├── Summary_Report.md       # Categorized and summarized bug data
-├── Screenshots/            # Supporting images for visual proof
-└── README.md               # Project overview and test scope
-```
-
----
-
 ## 📋 Bug Report Format
 
 Each bug report follows this format:
