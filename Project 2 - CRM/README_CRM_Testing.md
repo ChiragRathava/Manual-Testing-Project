@@ -23,25 +23,6 @@ Responsibilities:
 
 ---
 
-## 📋 Bug Report Format
-
-Each bug report follows this format:
-
-| Field              | Description                                 |
-|-------------------|---------------------------------------------|
-| Defect ID          | Unique identifier (e.g., BUG-001)           |
-| Title              | Short summary of the issue                  |
-| Description        | What the issue is and where it occurs       |
-| Environment        | OS, browser used                            |
-| Steps to Reproduce | Step-by-step to reproduce the bug           |
-| Expected Result    | What should happen                          |
-| Actual Result      | What actually happens                       |
-| Severity / Priority| Impact on functionality                     |
-| Status             | Open / Fixed / Closed / Retest              |
-| Attachments        | Screenshot, video, or logs (if applicable)  |
-
----
-
 ## 📊 Comprehensive Summary Report
 
 ### ✅ Total Bugs Reported: **88**
