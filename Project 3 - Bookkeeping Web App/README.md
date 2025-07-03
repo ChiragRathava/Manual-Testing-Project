@@ -1,6 +1,6 @@
 # 📘 Bookkeeping Platform – Manual Testing Project
 
-This repository contains the **manual testing documentation** and detailed **bug reports** for a web-based accounting system, referred to here as the **Cloud Bookkeeping Platform**. The project was tested manually across various modules including registration, messaging, meeting scheduling, and account management.
+This repository contains the **manual testing documentation** and detailed **bug reports** for a web-based accounting system, referred to here as the **Bookkeeping Platform**. The project was tested manually across various modules including registration, messaging, meeting scheduling, and account management.
 
 ---
 
