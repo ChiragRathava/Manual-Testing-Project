@@ -18,6 +18,7 @@
 | **Approval**          | [Stakeholders for sign-off]                                                 |
 
 
+
 ## 🧪 Test Case Table
 | **Field**             | **Details**          |
 |-----------------------|----------------------|
@@ -31,6 +32,7 @@
 | Scenario TID | Scenario Description | Test Case ID | Pre-Condition | Steps to Execute | Expected Result | Actual Result | Status | Executed QA Name | Misc (Comments) | Priority |
 |--------------|----------------------|---------------|----------------|------------------|------------------|----------------|--------|-------------------|------------------|----------|
 | TC001        | [Describe scenario]  | TC001-Login   | [e.g., User must be registered] | 1. Open login page<br>2. Enter valid credentials<br>3. Click login | User should be logged in successfully | [Result here] | Pass/Fail | [QA Name] | [Any comment] | High |
+
 
 
 ## 📚 Test Material Template
@@ -68,6 +70,7 @@
 - [ ] Test data prepared
 - [ ] Tools set up
 - [ ] Bug tracking initialized
+
 
 
 ## 🐞 Bug Report Template
