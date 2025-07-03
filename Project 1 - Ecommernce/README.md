@@ -12,7 +12,7 @@ This project documents my manual testing work on **KrishnaMart**, an e-commerce 
 
 ## 🎯 Testing Objectives
 - Validate all core customer-facing functionalities.
-- Identify and document UI/UX, functionality, and security issues.
+- Identify and document UI/UX, functionality.
 - Ensure compatibility across browsers and responsive layouts.
 - Provide test reports, bug logs, and QA sign-off artifacts.
 
@@ -69,7 +69,7 @@ This project documents my manual testing work on **KrishnaMart**, an e-commerce 
 ---
 
 ## 🚀 Results & Achievements
-- Achieved **95%+ test case execution**
+- Achieved **84.5%+ test case execution**
 - Identified **7+ critical defects** that could affect business operations
 - Maintained **100% traceability** between requirements and test cases
 - Delivered clean and professional documentation suitable for stakeholder review
@@ -78,7 +78,7 @@ This project documents my manual testing work on **KrishnaMart**, an e-commerce 
 
 ## 📎 Tech & Tools
 - **Browsers:** Chrome, Firefox
-- **Operating Systems:** Windows 10, Android 11
+- **Operating Systems:** Windows 11, Android 11
 - **Documentation:** Excel, Google Sheets, MS Word
 - **Reporting Format:** Simulated Jira layout in Excel
 - **Platform Tested:** [KrishnaMart E-Commerce Website](https://krishnamart.kesug.com/index.php?i=1)
