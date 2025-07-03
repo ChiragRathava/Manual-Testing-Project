@@ -17,7 +17,7 @@
 | **Reporting**         | [How results are tracked and shared]                                        |
 | **Approval**          | [Stakeholders for sign-off]                                                 |
 
-
+---
 
 ## 🧪 Test Case Table
 | **Field**             | **Details**          |
@@ -33,7 +33,7 @@
 |--------------|----------------------|---------------|----------------|------------------|------------------|----------------|--------|-------------------|------------------|----------|
 | TC001        | [Describe scenario]  | TC001-Login   | [e.g., User must be registered] | 1. Open login page<br>2. Enter valid credentials<br>3. Click login | User should be logged in successfully | [Result here] | Pass/Fail | [QA Name] | [Any comment] | High |
 
-
+---
 
 ## 📚 Test Material Template
 
@@ -71,7 +71,7 @@
 - [ ] Tools set up
 - [ ] Bug tracking initialized
 
-
+---
 
 ## 🐞 Bug Report Template
 
