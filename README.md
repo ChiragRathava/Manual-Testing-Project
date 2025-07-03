@@ -50,20 +50,13 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 ### 📌 Project 2: CRM
 
-- Test Plan ✅  
-- Test Cases ✅  
-- Bug Report ✅ (88 Bugs)  
-- RTM ❌  
-- Test Reports ✅  
+- Bug Report ✅ (88 Bugs)
 - Test Metrics ✅  
 
 ### 📌 Project 3: Cloud Bookkeeping Platform
 
-- Test Plan ✅  
-- Test Cases ❌  
-- Bug Report ✅ (11 Bugs)  
-- RTM ❌  
-- Test Reports ✅  
+  
+- Bug Report ✅ (11 Bugs)   
 - Test Metrics ✅  
 
 ---
