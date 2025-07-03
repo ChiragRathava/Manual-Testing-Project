@@ -6,11 +6,11 @@ This repository contains a list of all the projects completed during my **manual
 
 ## 📋 Project List
 
-| Project Name                         | Description                                                               | Tools Used                              |
-|--------------------------------------|---------------------------------------------------------------------------|-----------------------------------------|
-| Project 1: KrishnaMart E-Commerce    | Tested an e-commerce grocery website for functionality and usability      | Excel, Chrome, Firefox, Lightshot, Jira |
-| Project 2:  CRM           | Tested a CRM platform for sales, quotations, and customer workflows       | Excel, Jira, Browser, Lightshot         |
-| Project 3: Cloud Bookkeeping System  | Tested an online accounting tool for meetings, login, and messaging flows | Excel, Jira, Chrome, Lightshot          |
+| Project Name                       | Description                                                               | Tools Used                              |
+|------------------------------------|---------------------------------------------------------------------------|-----------------------------------------|
+| Project 1: E-Commerce   | Tested an e-commerce grocery website for functionality and usability      | Excel, Chrome, Firefox, Lightshot, Jira |
+| Project 2: CRM          | Tested a CRM platform for sales, quotations, and customer workflows       | Excel, Jira, Browser, Lightshot         |
+| Project 3: Cloud Bookkeeping System | Tested an online accounting tool for meetings, login, and messaging flows | Excel, Jira, Chrome, Lightshot          |
 
 ---
 
