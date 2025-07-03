@@ -112,7 +112,7 @@ Testing Types:
 - Devices: Desktop, Mobile
 
 ## 15. Approvals
-| Name | Role | Signature | Date |
-|------|------|-----------|------|
-| Chirag Rathava | Test Lead |  |  |
-| Adarsh Patel | Project Manager |  |  |
+| Name | Role | Signature | Date     |
+|------|------|-----------|----------|
+| Chirag Rathava | Test Lead | Chirag    | 28-02-25 |
+| Adarsh Patel | Project Manager | Adarsh    | 28-02-25 |
