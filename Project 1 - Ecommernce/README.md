@@ -6,7 +6,7 @@ This project documents my manual testing work on **KrishnaMart**, an e-commerce 
 
 > 👤 **Role:** QA Analyst – Manual Testing  
 > 🛠️ **Tools Used:** Excel, Google Sheets, Jira (simulated), Chrome, Firefox  
-> 📊 **Test Coverage:** 95% Functional Coverage | 200 Test Cases | 30+ Defects Reported  
+> 📊 **Test Coverage:** 84.5% Functional Coverage | 200 Test Cases | 30+ Defects Reported  
 
 ---
 
