@@ -97,7 +97,6 @@ Displays names of customers where the ID is less than 5.
 CREATE OR REPLACE VIEW idn5 AS
 SELECT name FROM customers WHERE id < 5;
 ```
-
 ---
 
 ## 🖼️ ER Diagram
