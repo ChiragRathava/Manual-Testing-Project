@@ -98,16 +98,3 @@ CREATE OR REPLACE VIEW idn5 AS
 SELECT name FROM customers WHERE id < 5;
 ```
 ---
-
-## 🖼️ ER Diagram
-
-![ER Diagram](docs/er_diagram.png)
-
----
-
-Let me know if you’d also like:
-- A **text-based ER diagram**
-- An **updated image-based diagram**
-- Or inclusion of **example queries** per table
-
-I can include those next if needed.
