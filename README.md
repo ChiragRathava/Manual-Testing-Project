@@ -6,11 +6,11 @@ This repository contains a list of all the projects completed during my **manual
 
 ## 📋 Project List
 
-| Project Name                       | Description                                                              | Tools Used                              |
-|------------------------------------|--------------------------------------------------------------------------|-----------------------------------------|
-| Project 1: E-Commerce   | Tested an e-commerce website for functionality and usability      | Excel, Chrome, Firefox, Lightshot, Jira |
-| Project 2: CRM          | Tested a CRM platform for sales, quotations, and customer workflows      | Excel, Jira, Browser, Lightshot         |
-| Project 3: Cloud Bookkeeping System | Tested an online accounting tool for meetings, login, and messaging flows | Excel, Jira, Chrome, Lightshot          |
+| Project Name                    | Description                                                               | Tools Used                              |
+|--------------------------------|---------------------------------------------------------------------------|-----------------------------------------|
+| Project 1: E-Commerce           | Tested an e-commerce website for functionality and usability              | Excel, Chrome, Firefox, Lightshot, Jira |
+| Project 2: CRM                 | Tested a CRM platform for sales, quotations, and customer workflows        | Excel, Jira, Browser, Lightshot         |
+| Project 3: Cloud Bookkeeping   | Tested an online accounting tool for meetings, login, and messaging flows | Excel, Jira, Chrome, Lightshot          |
 
 ---
 
@@ -28,11 +28,11 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 ## 📦 Templates Used
 
-- Test Plan  
-- Test Cases  
-- Bug Report  
-- RTM  
-- Test Reports  
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
 - Test Metrics
 
 ---
@@ -41,25 +41,38 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 ### 📌 Project 1: E-Commerce Website
 
-- Test Plan ✅  
-- Test Cases ✅  
+- Test Plan ✅
+- Test Cases ✅
 - Bug Report ✅
-- Test Reports ✅  
-- Test Metrics ✅  
+- Test Reports ✅
+- Test Metrics ✅
 
 ### 📌 Project 2: CRM
 
 - Bug Report ✅ (88 Bugs)
-- Test Metrics ✅  
+- Test Metrics ✅
 
 ### 📌 Project 3: Cloud Bookkeeping Platform
 
-  
-- Bug Report ✅ (11 Bugs)   
-- Test Metrics ✅  
+- Bug Report ✅ (11 Bugs)
+- Test Metrics ✅
+
+---
+
+### 🗃️ Additional: SQL Practice Projects
+
+This folder contains practice projects to sharpen SQL skills. It includes:
+
+- Table creation & schema changes
+- Data insertion, updates, deletions
+- Views, triggers, stored procedures
+- Joins, subqueries, aggregation, filters
+
+📂 [Go to SQL Folder](./SQL/)  
+📄 [View SQL README](./SQL/README.md)
 
 ---
 
 **Created by:** Chirag Rathava – Manual QA Tester  
 **GitHub:** [ChiragRathava](https://github.com/ChiragRathava)  
-**Location:** Gujarat, India  
+**Location:** Gujarat, India
