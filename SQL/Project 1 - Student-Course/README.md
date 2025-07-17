@@ -7,7 +7,6 @@ This project showcases a relational database model for a basic student-course en
 ## 📁 Project Structure
 
 ```
-
 sql-student-course-project/
 │
 ├── README.md
