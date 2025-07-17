@@ -11,8 +11,6 @@ This project showcases a relational database model for a basic student-course en
 sql-student-course-project/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── /sql/
 │   ├── 01\_setup\_schema.sql
