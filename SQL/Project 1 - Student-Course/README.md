@@ -22,7 +22,6 @@ sql-student-course-project/
 │   ├── schema\_description.md
 
 ````
-
 ---
 
 ## 🧠 Key Concepts Covered
