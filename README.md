@@ -61,5 +61,5 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 ---
 
 **Created by:** Chirag Rathava – Manual QA Tester  
-**GitHub:** [ChiragRathava29](https://github.com/ChiragRathava)  
+**GitHub:** [ChiragRathava](https://github.com/ChiragRathava)  
 **Location:** Gujarat, India  
